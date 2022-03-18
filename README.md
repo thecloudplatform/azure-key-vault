@@ -11,7 +11,10 @@
 
 ![Bicep Version](https://azurequickstartsservice.blob.core.windows.net/badges/quickstarts/microsoft.keyvault/key-vault-create/BicepVersion.svg)
 
-[![Deploy To Azure](https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazure.svg?sanitize=true)](https://portal.azure.com/#create/Microsoft.Template/uri/https://github.com/thecloudplatform/azure-key-vault/blob/d7347f94e3dc9197005670f7becdf60363490b0e/azuredeploy.json)
+[![Deploy To Azure]
+<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fthecloudplatform%2Fazure-key-vault%2Fmaster%2Fazuredeploy.json" target="_blank">
+    <img src="http://azuredeploy.net/deploybutton.png"/>
+</a>
 
 This template creates an Azure Key Vault and a secret stored inside the key vault. To learn more about how to deploy the template, see the [quickstart](https://docs.microsoft.com/azure/key-vault/secrets/quick-create-template) article.
 
